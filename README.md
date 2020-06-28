@@ -36,9 +36,12 @@ Almost the same as image processing, just load/write videos instead of an image.
 2. Pass the same pipeline (step 2 to 7) to VideoFileClip.f1_image()
 3. Save the output to a video file using VideoFileClip.write_videofile()
 
+Please read Finding Lane Lines on the Road.md for the project findings.
+
 Files
 ---
  * P1.ipynb - this contains all the code in this project
+ * Finding Lane Lines on the Road.md - Project write-up.
  * set_git.sh - a shell script to set github repository configurations
  * test_images/ - contains all test image files
  * test_videos/ - contains all test video files
